@@ -11,3 +11,4 @@ The advanced algorithm used by Airbnb's recommendation system matches visitors w
 -> Airbnb's recommendation algorithm employs collaborative filtering methods to suggest listings that are comparable to those that the user has previously liked or reserved.
 
 -> The engine also employs content-based filtering to suggest postings that are comparable in terms of setting, amenities, cost, and other attributes.
+
